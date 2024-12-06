@@ -1,0 +1,58 @@
+	pubmed_id	title	extracted topic-keyword
+0	16115318	Chloroquine is a potent inhibitor of SARS coronavirus infection and spread - PubMed	chloroquine
+1	33301246	Safety and Efficacy of the BNT162b2 mRNA Covid-19 Vaccine - PubMed	vaccin
+2	33205991	Effectiveness of Adding a Mask Recommendation to Other Public Health Measures to Prevent SARS-CoV-2 Infection in Danish Mask Wearers : A Randomized Controlled Trial - PubMed	mask
+3	34145166	Ivermectin for Prevention and Treatment of COVID-19 Infection: A Systematic Review, Meta-analysis, and Trial Sequential Analysis to Inform Clinical Guidelines - PubMed	ivermectin
+4	33545094	Safety and efficacy of an rAd26 and rAd5 vector-based heterologous prime-boost COVID-19 vaccine: an interim analysis of a randomised controlled phase 3 trial in Russia - PubMed	vaccin
+5	25903751	A cluster randomised trial of cloth masks compared with medical masks in healthcare workers - PubMed	mask
+6	35456309	The Incidence of Myocarditis and Pericarditis in Post COVID-19 Unvaccinated Patients-A Large Population-Based Study - PubMed	myocarditis
+7	32027586	Nonpharmaceutical Measures for Pandemic Influenza in Nonhealthcare Settings-Personal Protective and Environmental Measures - PubMed	influenza
+8	32497510	Physical distancing, face masks, and eye protection to prevent person-to-person transmission of SARS-CoV-2 and COVID-19: a systematic review and meta-analysis - PubMed	mask
+9	32450107	RETRACTED: Hydroxychloroquine or chloroquine with or without a macrolide for treatment of COVID-19: a multinational registry analysis - PubMed	chloroquine
+10	32251768	The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro - PubMed	ivermectin
+11	33219229	Post-lockdown SARS-CoV-2 nucleic acid screening in nearly ten million residents of Wuhan, China - PubMed	wuhan
+12	35132265	Long-term cardiovascular outcomes of COVID-19 - PubMed	cardio
+13	33882218	Preliminary Findings of mRNA Covid-19 Vaccine Safety in Pregnant Persons - PubMed	vaccin
+14	35436552	Innate immune suppression by SARS-CoV-2 mRNA vaccinations: The role of G-quadruplexes, exosomes, and MicroRNAs - PubMed	vaccin
+15	33431650	An evidence review of face masks against COVID-19 - PubMed	mask
+16	32371934	Respiratory virus shedding in exhaled breath and efficacy of face masks - PubMed	mask
+17	32527856	Identifying airborne transmission as the dominant route for the spread of COVID-19 - PubMed	airborne
+18	34351882	Outbreak of SARS-CoV-2 Infections, Including COVID-19 Vaccine Breakthrough Infections, Associated with Large Public Gatherings - Barnstable County, Massachusetts, July 2021 - PubMed	vaccin
+19	35484304	Increased emergency cardiovascular events among under-40 population in Israel during vaccine rollout and third COVID-19 wave - PubMed	cardio
+20	33113270	Informed consent disclosure to vaccine trial subjects of risk of COVID-19 vaccines worsening clinical disease - PubMed	vaccin
+21	35076665	Myocarditis Cases Reported After mRNA-Based COVID-19 Vaccination in the US From December 2020 to August 2021 - PubMed	myocarditis
+22	34466270	Ivermectin: a multifaceted drug of Nobel prize-honoured distinction with indicated efficacy against a new global scourge, COVID-19 - PubMed	ivermectin
+23	34756186	Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study - PubMed	delta
+24	35143470	Effectiveness of Face Mask or Respirator Use in Indoor Public Settings for Prevention of SARS-CoV-2 Infection - California, February-December 2021 - PubMed	mask
+25	35255491	SARS-CoV-2 is associated with changes in brain structure in UK Biobank - PubMed	brain
+26	35353979	Effect of Early Treatment with Ivermectin among Patients with Covid-19 - PubMed	ivermectin
+27	32291278	Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period - PubMed	transmi
+28	33303303	Retracted: Facemasks in the COVID-19 era: A health hypothesis - PubMed	mask
+29	32240078	COVID-19 Outbreak Associated with Air Conditioning in Restaurant, Guangzhou, China, 2020 - PubMed	air conditioning
+30	33400268	Assessing mandatory stay-at-home and business closure effects on the spread of COVID-19 - PubMed	spread
+31	34446582	Airborne transmission of respiratory viruses - PubMed	airborne
+32	34289274	Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant - PubMed	vaccin
+33	34696485	SARS-CoV-2 Spike Impairs DNA Damage Repair and Inhibits V(D)J Recombination In Vitro - PubMed	dna
+34	34375047	Review of the Emerging Evidence Demonstrating the Efficacy of Ivermectin in the Prophylaxis and Treatment of COVID-19 - PubMed	ivermectin
+35	32917603	Low-cost measurement of face mask efficacy for filtering expelled droplets during speech - PubMed	mask
+36	32702298	Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial - PubMed	vaccin
+37	32179701	Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2) - PubMed	infect
+38	33626250	BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Mass Vaccination Setting - PubMed	vaccin
+39	31986264	Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China - PubMed	infect
+40	34735425	Laboratory-Confirmed COVID-19 Among Adults Hospitalized with COVID-19-Like Illness with Infection-Induced or mRNA Vaccine-Induced SARS-CoV-2 Immunity - Nine States, January-September 2021 - PubMed	vaccin
+41	34432976	Safety of the BNT162b2 mRNA Covid-19 Vaccine in a Nationwide Setting - PubMed	vaccin
+42	35007072	Cannabinoids Block Cellular Entry of SARS-CoV-2 and the Emerging Variants - PubMed	cannabi
+43	32663912	An mRNA Vaccine against SARS-CoV-2 - Preliminary Report - PubMed	vaccin
+44	32971268	Ivermectin, a potential anticancer drug derived from an antiparasitic drug - PubMed	ivermectin
+45	33600386	Maximizing Fit for Cloth and Medical Procedure Masks to Improve Performance and Reduce SARS-CoV-2 Transmission and Exposure, 2021 - PubMed	mask
+46	33836148	6-month neurological and psychiatric outcomes in 236 379 survivors of COVID-19: a retrospective cohort study using electronic health records - PubMed	cohort
+47	33306989	Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK - PubMed	vaccin
+48	32730619	Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19) - PubMed	cardio
+49	32445440	Remdesivir for the Treatment of Covid-19 - Final Report - PubMed	remdesivir
+50	33923935	Is a Mask That Covers the Mouth and Nose Free from Undesirable Side Effects in Everyday Use and Free of Potential Hazards? - PubMed	mask
+51	35279232	Estimating excess mortality due to the COVID-19 pandemic: a systematic analysis of COVID-19-related mortality, 2020-21 - PubMed	mortality
+52	35025851	Risk for Newly Diagnosed Diabetes >30 Days After SARS-CoV-2 Infection Among Persons Aged <18 Years - United States, March 1, 2020-June 28, 2021 - PubMed	diabetes
+53	32171076	Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study - PubMed	mortality
+54	34473683	Outbreak Associated with SARS-CoV-2 B.1.617.2 (Delta) Variant in an Elementary School - Marin County, California, May-June 2021 - PubMed	delta
+55	32219428	Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma - PubMed	plasma
+56	33315116	Household Transmission of SARS-CoV-2: A Systematic Review and Meta-analysis - PubMed	house
