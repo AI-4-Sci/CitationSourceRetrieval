@@ -31,6 +31,7 @@ This repository contains the following directories and files:
 9. **README.md** this file
 
 ## Data:
+The full data is not immediately publicly available, as it is being used for an upcoming CheckThat! Lab which we organize at CLEF2025. However, samples are already available for reviewers (see data/sample_explicit_references.tsv and data/sample_implicit_references.tsv). The full data will be made publicly available before the WWW camera-ready deadline.
 
 ## Reproducibility:
 
