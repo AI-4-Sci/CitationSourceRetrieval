@@ -1,4 +1,4 @@
-# CitationSourceRetrieval
+# ReferenceDisambiguation
 
 <!-- Short Introduction what this repo is about -->
 This repository contains the dataset, annotation framework and supplementary results for the work *"Disambiguation of Implicit Scientific References on X"*, currently under review at the **ACM Web Conference (WWW 2025)**.
@@ -6,7 +6,9 @@ This repository contains the dataset, annotation framework and supplementary res
 __Table of contents:__
 - [Contents of the Repository](#contents-of-the-repository)
   - [Directory Structure](#directory-structure)
-  - [Reproducibility](#reproducibility)
+  - [Data](#data)
+  - [Publication](#publication)
+  <!-- - [Reproducibility](#reproducibility)-->
 - [Licensing](#licensing)
 - [Contact](#credits)
 - [Acknowledgment](#acknowledgment)
@@ -30,12 +32,12 @@ This repository contains the following directories and files:
 4. **annotation_protocol_examples.pdf** the annotation framework provided to the annotators, along with definitions and examples provided to annotators
 9. **README.md** this file
 
-## Data:
+### Data:
 The full data is not immediately publicly available, as it is being used for an upcoming CheckThat! Lab which we organize at CLEF2025. However, samples are already available for reviewers (see data/sample_explicit_references.tsv and data/sample_implicit_references.tsv). The full data will be made publicly available before the WWW camera-ready deadline.
 
-## Reproducibility:
+<!-- ## Reproducibility: -->
 
-## Publication:
+### Publication:
 <!-- TODO: Update with correct information once we uploaded the paper somewhere -->
 Please cite the following paper if you are using the dataset or annotation framework, or citing empirical results from the paper:
 
